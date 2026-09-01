@@ -82,15 +82,15 @@ Entre os conceitos utilizados estão:
 banco-de-dados-1-ufu/
 │
 ├── trabalho-1-modelagem/
-│   ├── diagrama.pdf
+│   ├── DIAGRAMAS.pdf
 │   ├── modelo.mwb
-│   └── script.sql
+│   └── criacao-banco.sql
 │
 ├── trabalho-2-consultas-postgresql/
 │   ├── consultas.sql
 │   ├── locadora_criacao_postgre.sql
 │   ├── locadora_insercao.sql
-│   ├── trabalho2_sql.pdf
+│   ├── enunciado.pdf
 │   └── README.md
 │
 └── README.md
