@@ -1,12 +1,17 @@
-# Banco de Dados I — UFU
+# Banco de Dados I - UFU
 
 Repositório com projetos acadêmicos desenvolvidos na disciplina de **Banco de Dados I** do curso de **Sistemas de Informação da Universidade Federal de Uberlândia (UFU)**.
 
 Os trabalhos abordam desde a **modelagem de banco de dados relacional** até a elaboração de **consultas SQL em PostgreSQL**, aplicando conceitos fundamentais de organização, relacionamento e recuperação de dados.
 
+## AUTOR
+Gustavo Antunes de Souza
+Bacharelado em Sistemas de Informação
+Universidade Federal de Uberlândia - UFU
+
 ## Projetos
 
-### Trabalho 1 — Modelagem de Banco de Dados
+### Trabalho 1 - Modelagem de Banco de Dados
 
 Desenvolvimento da modelagem de um banco de dados para uma aplicação de relacionamento entre usuários.
 
@@ -30,7 +35,7 @@ O trabalho envolveu a definição de entidades, atributos, relacionamentos, chav
 
 ---
 
-### Trabalho 2 — Consultas SQL em PostgreSQL
+### Trabalho 2 - Consultas SQL em PostgreSQL
 
 Desenvolvimento de **14 consultas SQL** sobre uma base de dados de uma locadora.
 
@@ -89,9 +94,3 @@ banco-de-dados-1-ufu/
 │   └── README.md
 │
 └── README.md
-
-Autor
-
-Gustavo Antunes de Souza
-Bacharelado em Sistemas de Informação
-Universidade Federal de Uberlândia — UFU
